@@ -3,7 +3,7 @@
   text-align: center;
 } /* Universal selector for entire page. font will be Verdana based on mock for all content and centered alignment */
 
-.h1 {
+h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
