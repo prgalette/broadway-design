@@ -3,7 +3,7 @@
   text-align: center;
 } /* Universal selector for entire page. font will be Verdana based on mock for all content and centered alignment */
 
-#top {
+.top {
   background-image: url("resources/images/the-flatiron-building.png");
 }
 
@@ -13,7 +13,7 @@ h1 {
   color: white;
 }
 
-.navigation {
+.navigation a {
   font-size: 18px;
   color: white;
 }
