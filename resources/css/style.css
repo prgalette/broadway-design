@@ -11,7 +11,7 @@
 } /* Universal selector for entire page. font will be Verdana based on mock for all content and centered alignment */
 
 #top {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-image: url("");
 }
 
 .title {
