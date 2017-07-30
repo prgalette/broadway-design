@@ -5,7 +5,7 @@
     NOTES:
       * A background-image not visible using relative file path.
 */
-* {
+body {
     font-family: Helvetica;
     text-align: center;
 } /* Universal selector for entire page. font will be Verdana based on mock for all content and centered alignment */
@@ -45,6 +45,8 @@ p {
     font-size: 23px;
     font-weight: bold;
     color: white;
+    background-image: url("../images/the-flatiron-building.png");
+    background-color: transparent;
 }
 
 #footer {
