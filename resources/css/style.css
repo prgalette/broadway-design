@@ -41,3 +41,16 @@ p {
     font-size: 14px;
 }
 
+.ny {
+    font-size: 23px;
+    font-weight: bold;
+    color: white;
+}
+
+#footer {
+    font-size: 11px;
+    text-align: left;
+    color: white;
+    background-color: dimgray;  
+}
+
