@@ -1,7 +1,7 @@
 /*  CODECADEMY:   Building Websites From Scratch
     UNIT:         03. Git and Github
     PROJECT:      Broadway Design Project
-    DESCRIPTION:  A website to promote a travel mobile app.
+    DESCRIPTION:  A website for design firm.
     NOTES:
       * A background-image not visible using relative file path.
 */
@@ -11,11 +11,11 @@
 } /* Universal selector for entire page. font will be Verdana based on mock for all content and centered alignment */
 
 #top {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/mocks/broadway.png");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
   background-color: transparent;
 }
 
-h1 {
+.title {
   font-size: 70px;
   font-weight: bold;
   color: white;
