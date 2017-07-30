@@ -7,7 +7,7 @@
 body {
     font-family: Helvetica;
     text-align: center;
-} /* Universal selector for entire page. font will be Verdana based on mock for all content and centered alignment */
+}
 
 #top {
     background-image: url("../images/the-flatiron-building.png");
